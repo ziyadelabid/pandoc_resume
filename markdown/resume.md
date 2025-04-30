@@ -1,100 +1,98 @@
-Johnny Coder
-============
+Ziyad El Abid
+===============
+
+>**Software Engineer | Passionate Technologist**
+ 
+-----------------------    ------------------------------------------------------------------------
+15 Impasse Elvina Sivan     [ziyadelabidinfo@gmail.com](mailto:ziyadelabidinfo@gmail.com)
+33800 Fes                                       [ziyadelabid.github.io/](https://github.com/ziyadelabid/)
+Maroc                                                                              +212700138304
+-----------------------     -----------------------------------------------------------------------
+
+>Highly experienced Software Engineer with 3 years in architecture, development, and automation.
+>Passionate about computer science, I thrive on tackling complex challenges and continuously improving systems.
+>I enjoy sharing my knowledge through articles and conference presentations.
+>My expertise spans microservice architectures, cloud infrastructure, and DevOps practices, making me a versatile and dedicated professional.
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+Experience
+----------
+**Crédit habitat -- Software Engineer:**
+*April 2025 – Present*
 
-----
+- Lead the creation of an API offer from the ground up spanning topics like Go usage, authentication, authorization, observability and documentation.
+- Streamlined CI/CD pipeline and automated versioning using conventional commit, introduced a monorepo for frontend developments, introduced Argo CD to simplify deployment processes.
+- Pushed toward technical excellence by introducing ADRs and architecture stewardship.
+- Worked on R&D projects around AI technologies.
+- Collaborating and mentoring feature teams to deliver high-quality software solutions.
+
+**Micepp -- Software Engineer:**
+*February 2025 – April 2025*
+
+- Lead the creation of an API offer from the ground up spanning topics like Go usage, authentication, authorization, observability and documentation.
+- Streamlined CI/CD pipeline and automated versioning using conventional commit, introduced a monorepo for frontend developments, introduced Argo CD to simplify deployment processes.
+- Pushed toward technical excellence by introducing ADRs and architecture stewardship.
+- Worked on R&D projects around AI technologies.
+- Collaborating and mentoring feature teams to deliver high-quality software solutions.
+
+**Winxo -- Software Engineer:**
+*April 2024 – September 2024*
+
+- Implemented a technical strategy to a Winxo's fidelity program
+- Automated CI/CD pipelines and cloud infrastructure provisioning using Infrastructure as Code.
+- Managed and monitored cloud infrastructure on AWS and Azure.
+- Led a team of up to 10 members, guiding them from project inception to feature delivery.
+
+**Synapse Medicine - Software Engineer:**
+*April 2024 – February 2025*
+
+- Contributed in the integration of Synapse Medicine widgets in the PAGR platform
+- Integrated a strong authentication/authorization process using Keycloak
+- Lead a demo to the client
+- Fix incoming bugs and offer support services to the Synapse's client
+- Lead a backlog refinement and technical refinement sessions
+- 
+
+**Lloyds - Software engineer:**
+*February 2024 – April 2024*
+
+- Contributed with a team of 3 developers to implement a forecast calculation epic
+- Collaborated with a team of data scientists to analyze their output then created a convenient data model 
+
+**Crédit Habitat - Software engineer:**
+*Junuary 2023 – February 2024*
+
+- Contributed in the conception of one of the most complex epics in the project
+- Developed an epic to manage loan cases
+- Created an optimal scheduled task to export all the cases
+- Optimized the SQL requests to take fewer time
+- Demo the work we did as a team to the client
+
+Skills
+------
+
+* **Technical Leadership:** Project leadership and technical mentoring.
+* **Software Development:**  Java, Python, JavaScript, Rust.
+* **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, Jenkins, Gitlab CI, Github Action.
+* **Databases & Messaging:** SQL and NoSQL databases, Kafka, Redis.
+* **Continuous Learning:** Staying updated with the latest technologies and industry trends.
+* **Spoken languages:** Arabic(native language), French (proficient), English (proficient)
+
+---
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2017 – 2022
+:   **Master in Computer Engineering** Ecole nationale des sciences appliquées de Fès 
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+Activities & Achievements
+-------------------------
 
-    *Minor: Awesomeology*
+**Side Projects**
 
-Experience
-----------
-
-**Your Most Recent Work Experience:**
-
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
---------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+- Contributed to Sentry Javascript [Added a new option networkDetailDenyUrls to Sentry Replay](https://github.com/getsentry/sentry-javascript/pull/8439).
+- Contributed to Jest [Prevented a vulnerability of ReDos in semver package](https://github.com/jestjs/jest/pull/14262).
+- Occasional blogger on [https://imflog.github.io/](https://imflog.github.io/).
